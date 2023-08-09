@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fa379a4.css",
-    "main.js": "/static/js/main.b9f20ec2.js",
+    "main.css": "/static/css/main.35e0e702.css",
+    "main.js": "/static/js/main.cec490e7.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/banner.png": "/static/media/banner.d62f6b45938eb33869ad.png",
+    "static/media/solar-system.png": "/static/media/solar-system.bc59b558a1b4d80dbbcd.png",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.883b713b156337654c0c.png",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/zoo-functions.png": "/static/media/zoo-functions.2b4ddbc1cb4c69c3c594.png",
+    "static/media/tryunfo.png": "/static/media/tryunfo.824c1e7e1126af746db5.png",
+    "static/media/project-rtl.png": "/static/media/project-rtl.aa251e53dacc731d1cc5.png",
+    "static/media/js-unit-tests.png": "/static/media/js-unit-tests.5fed3b6ff8ead29ac895.png",
+    "static/media/playground-functions.png": "/static/media/playground-functions.7f63c88f35167343cd86.png",
+    "static/media/lessons-learned.png": "/static/media/lessons-learned.4a5aef381c93864d2790.png",
+    "static/media/pixels-art.png": "/static/media/pixels-art.3c2ca968b95af3a8660a.png",
+    "static/media/trybewarts.png": "/static/media/trybewarts.781ec2f5df41e8c26159.png",
+    "static/media/youtune.png": "/static/media/youtune.03b6122309f108355528.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/man.png": "/static/media/man.2f1635d1b263607e5b65.png",
@@ -15,12 +26,12 @@
     "static/media/usa.png": "/static/media/usa.60c7d34f75799e443d80.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.0fa379a4.css.map": "/static/css/main.0fa379a4.css.map",
-    "main.b9f20ec2.js.map": "/static/js/main.b9f20ec2.js.map",
+    "main.35e0e702.css.map": "/static/css/main.35e0e702.css.map",
+    "main.cec490e7.js.map": "/static/js/main.cec490e7.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa379a4.css",
-    "static/js/main.b9f20ec2.js"
+    "static/css/main.35e0e702.css",
+    "static/js/main.cec490e7.js"
   ]
 }
