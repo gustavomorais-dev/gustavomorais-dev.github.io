@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.35e0e702.css",
-    "main.js": "/static/js/main.cec490e7.js",
+    "main.css": "/static/css/main.0dcdb3ba.css",
+    "main.js": "/static/js/main.33a1810b.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/banner.png": "/static/media/banner.d62f6b45938eb33869ad.png",
+    "static/media/starwars-planets-search.png": "/static/media/starwars-planets-search.623c1f8e510218d99cb9.png",
     "static/media/solar-system.png": "/static/media/solar-system.bc59b558a1b4d80dbbcd.png",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/docker.png": "/static/media/docker.188c8e4a24ef3dea3691.png",
     "static/media/shopping-cart.png": "/static/media/shopping-cart.883b713b156337654c0c.png",
+    "static/media/trybewallet.png": "/static/media/trybewallet.74ff2e2b4a67d41f4071.png",
     "static/media/devicon.eot?biu5f3": "/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/static/media/devicon.96fdfd136e8a467e1861.woff",
     "static/media/devicon.ttf?biu5f3": "/static/media/devicon.b25739c2b9d15a53d60c.ttf",
@@ -21,17 +24,19 @@
     "static/media/youtune.png": "/static/media/youtune.03b6122309f108355528.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/mysql.png": "/static/media/mysql.7200c1f1d56feb816c0a.png",
     "static/media/man.png": "/static/media/man.2f1635d1b263607e5b65.png",
+    "static/media/api.jpg": "/static/media/api.99278f23fdfeb48adc94.jpg",
     "static/media/brasil.png": "/static/media/brasil.d5d82beca796f94ba42c.png",
     "static/media/usa.png": "/static/media/usa.60c7d34f75799e443d80.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.35e0e702.css.map": "/static/css/main.35e0e702.css.map",
-    "main.cec490e7.js.map": "/static/js/main.cec490e7.js.map",
+    "main.0dcdb3ba.css.map": "/static/css/main.0dcdb3ba.css.map",
+    "main.33a1810b.js.map": "/static/js/main.33a1810b.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35e0e702.css",
-    "static/js/main.cec490e7.js"
+    "static/css/main.0dcdb3ba.css",
+    "static/js/main.33a1810b.js"
   ]
 }
